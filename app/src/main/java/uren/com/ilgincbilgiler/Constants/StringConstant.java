@@ -9,5 +9,15 @@ public class StringConstant {
     public static final String ANIMATE_UP_TO_DOWN = "ANIMATE_UP_TO_DOWN";
 
 
+    public static final String TYPE_SPACE = "SPACE";
+    public static final String TYPE_TRADITION = "TRADITION";
+    public static final String TYPE_HUMAN = "HUMAN";
+    public static final String TYPE_ANIMAL = "ANIMAL";
+    public static final String TYPE_DEEPWEB = "DEEPWEB";
+    public static final String TYPE_HISTORY = "HISTORY";
+    public static final String TYPE_SCIENCE = "SCIENCE";
+    public static final String TYPE_SEXUALITY = "SEXUALITY";
+    public static final String TYPE_RELIGION = "RELIGION";
+    public static final String TYPE_GENERAL = "GENERAL";
 
 }

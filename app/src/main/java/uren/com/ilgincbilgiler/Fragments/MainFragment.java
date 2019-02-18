@@ -22,6 +22,17 @@ import uren.com.ilgincbilgiler.GeneralUtils.ShapeUtil;
 import uren.com.ilgincbilgiler.MainFragments.BaseFragment;
 import uren.com.ilgincbilgiler.R;
 
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_ANIMAL;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_DEEPWEB;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_GENERAL;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_HISTORY;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_HUMAN;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_RELIGION;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_SCIENCE;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_SEXUALITY;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_SPACE;
+import static uren.com.ilgincbilgiler.Constants.StringConstant.TYPE_TRADITION;
+
 public class MainFragment extends BaseFragment implements View.OnClickListener {
 
     View mView;
@@ -145,43 +156,43 @@ public class MainFragment extends BaseFragment implements View.OnClickListener {
     public void onClick(View v) {
 
         if (v == llUzay) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_SPACE));
         }
 
         if (v == llGelenekler) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_TRADITION));
         }
 
         if (v == llHuman) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_HUMAN));
         }
 
         if (v == llAnimal) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_ANIMAL));
         }
 
         if (v == llDeepWeb) {
-
+            mFragmentNavigation.pushFragment(new MultilineInfoFragment(TYPE_DEEPWEB));
         }
 
         if (v == llHistory) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_HISTORY));
         }
 
         if (v == llBilim) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_SCIENCE));
         }
 
         if (v == llCinsellik) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_SEXUALITY));
         }
 
         if (v == llDinler) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_RELIGION));
         }
 
         if (v == llGenel) {
-
+            mFragmentNavigation.pushFragment(new ItemContentFragment(TYPE_GENERAL));
         }
     }
 }

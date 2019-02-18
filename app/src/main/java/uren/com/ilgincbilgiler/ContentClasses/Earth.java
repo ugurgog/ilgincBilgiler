@@ -2,7 +2,7 @@ package uren.com.ilgincbilgiler.ContentClasses;
 
 public class Earth {
 
-    String[] SPACE_INFO = new String[]{
+    String[] EARTH_INFO = new String[]{
             "Guam'da bakirelerin evlenmesi yasak. Bunun için kızlar bekaretlerini para karşılığı bu işi yapan kişilere bozduruyor.",
             "Arizona'da patlak lastikli otomobil içinde sevişmek yasak. Kurala uymayan ön koltukta sevişen 25, arka koltukta sevişen 50 dolar ödüyor.",
             "Gine'de evli kadını baştan çıkaran adamın el ve ayak parmaklarından biri kesiliyor. Kesilen parça ilişkiye giren kadına yediriliyor.",
@@ -88,7 +88,7 @@ public class Earth {
 
     }
 
-    public String[] getSPACE_INFO() {
-        return SPACE_INFO;
+    public String[] getEARTH_INFO() {
+        return EARTH_INFO;
     }
 }

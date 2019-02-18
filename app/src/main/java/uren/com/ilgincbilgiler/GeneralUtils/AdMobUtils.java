@@ -55,7 +55,7 @@ public class AdMobUtils {
     public static void loadInterstitialAd(Context context) {
 
         Random rand = new Random();
-        int value = rand.nextInt(5);
+        int value = rand.nextInt(6);
 
         if (value != 2) return;
 
