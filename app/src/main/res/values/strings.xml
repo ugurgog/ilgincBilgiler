@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">İlginç Bilgiler</string>
+
+    <string name="ADMOB_APP_ID">ca-app-pub-7227467199436307~5128530760</string>
+    <!--<string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-7227467199436307/8684632396</string>
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-7227467199436307/1927652350</string>-->
+
+
+    <!--Test-->
+    <string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

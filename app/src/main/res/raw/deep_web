@@ -1,0 +1,233 @@
+Tüm Bilinmeyen Yönleri İle İnternetin Gizemli Arka Sokağı: Deep Web
+
+İnternet. Bugün neredeyse herkesin hayatında önemli bir yer edinmiş genel anlamda karmaşık ağ bütününün genel adıdır.
+
+Peki onu kullananlar onun hakkında ne biliyor olabilir? Temel kanı, internetin içinde normal bir insanın hafızasına sığmayacak kadar büyük bir bilgi var.
+
+O halde normal kullanıcı alabildiği kadar bilgiyi alıyorsa, işini halledip o bilgisayarın başından kalkıyorsa yazının başlığındaki "dark net" (deep web) onun için önemli midir? bizce değil. Webin derini şu aralar yeni bilgisayar kullanan kişiler için oldukça merak edilen bir yer.
+
+1... Çoğu kişiye göre ise Deep Web bir şehir efsanesi, "kötülüklerin olduğu yer" olarak lanse edilir.
+
+Biraz teknoloji içerikli makaleler okuyan kimseler varsa bu dünyaya yön veren kişileri, Ross Ulbricht, Julian Assange, Edward Snowden gibi isimleri mutlaka duymuş, okumuştur. Bir de ergen kandırmacasını.
+
+Kısaca bu madelerin ve kişilerin özellikleri şunlardır:
+
+Deep web (herkesin bildiği adıyla) bir ergen kandırmacasıdır. Henüz yaşı kemale ermemiş gençler bu tip ortamlara girmek için can atarlar ancak uygun linkleri bulamadıkları için çaresizce Facebook profillerinde "kahrolsun PKK!" paylaşımları yapmaya devam ederler.
+
+Ross Ulbricht: Sanal ipek yolu (silkroad)'nun yaratıcısı olduğu gerekçesiyle şu an ömür boyu hapse mahkum edildi.
+
+Julian Assange: Dünyaca ünlenen WikiLeaks sitesinin sahibi.
+
+Edward Snowden: Amerikan İstihbarat Birimi (NSA)'den bilgi ve belge sızdırmakla suçlanıyor.
+
+Kullanıcılar olarak bizim gördüğümüz web'in bu kadarlık bir kısmıysa orada bahsedilen büyüklük birimi tam olarak ne olabilir?
+
+İşte değineceğimiz konu tam olarak bu. Kendi deneyimlerimiz de dahil bir çok örnek ile uzun bir yazı bizi bekliyor olacak.
+
+2... Deep Web Nedir?
+
+Kişisel sunucular kullanarak herkesin erişimine açık olmayan özel ağlarda barınan sitelerin olduğu, bildiğiniz internetten farklı bir alandır.
+
+Google'ın görsel arama sayfasında Deep Web diye bir arama yaptığınızda muhtemelen göreceğiniz fotoğraf Ice Berg buzulu olacaktır.
+
+Oradaki webi en iyi bu fotoğraf ile şemalandırıyor uzmanlar. Bu ölçümleme 960.000 dark net kullanıcısı olduğu için yapılıyor.
+
+Normal interneti 2-3 milyar insan kullanabilirken, deep web tarafında bu rakam 1 milyon civarında seyrediyor.
+
+Beyaz görünen yer bizim gezindiğimiz bölge, suyun içindeki yer derin web. Peki bu kadar insan beyaz bölümde geziyorken orada neler olabilir ki? Gerçekten merak uyandırıcı öyle değil mi?
+
+Her şeyi bulmamıza yardım eden Google, Yahoo, Yandex, Bing gibi arama motorları tarafından bu siteler neden indexlenmiyor? Neden hızları ile nam salmış Google Chrome, Firefox, Opera gibi tarayıcılar bu siteleri açamıyor?
+
+3... Arama motorlarının sınırlarının bittiği yer
+
+Dark nette gezinmek için özel modifiye edilmiş tarayıcılara, işletim sistemlerine, bağlantı teknolojilerine ihtiyacınız var.
+
+Deep web ile ilgili bilinen webde arama yapmaya başladığınızda karşınıza çıkacak ilk done, Tor Browser olacaktır. Bu tarayıcı ile Tor ağına kurulan bağlantı sayesinde p2p (Peer-to-peer) yani, İki veya daha fazla istemci arasında veri paylaşmayı mümkün kılan bir ağ iletişiminin içine giriyorsunuz.
+
+Tor Browser kullanarak bir anlamda güvenliğinizi hiçe sayıyorsunuz ancak gündelik hayatınızda bu tarayıcı kullanınca, özel servisler, hack unsuru içeren öğeler tarafından takip edilme olasılığını bir nebze de olsa ortadan kaldırabiliyorsunuz.
+
+Deep web'e Google, Yahoo, Bing ya da diğer arama motorları ile giriş yapılamaz. Bu dünyada boy gösteren tüm siteler, arama motorları tarafından indekslenmediği için -yani arama sonuçlarında gösterilmediği için- o kapsamda yer alır.
+
+İndekslenmemelerinin sebebi ise, kullanıcı güvenliğinin olmaması, suç kapsamına giren içerikler vb şeklinde sıralanabilir.
+
+4... Erişilebilir web'in arkasında bir dünya
+
+Normal ile derin web hakkında karşılaştırma rakamları vermek çok saçma olacaktır. Örneğin, "normal web sadece %10'u iken, deep web'de bu rakam %90 civarındadır." tanımı gibi.
+
+Evvela oralara ulaşmak mümkün olsa bile iletişim için çok ama çok iyi İngilizce biliyor olmanız gerekiyor. Aksi halde sadece, açılmayan sitelere ve bilgisizce dolaştıktan sonra aman bu da neymiş be diyerek kapattığınızla kalırsınız.
+
+Oralara girdiğinizde birkaç terim ve bu terimlerin anlamlarını bilmeniz gerekecek.
+
+Forumlarda da, bloglarda da faydalı görünen linklere tıklamak gibi bir alışkanlığınız varsa bu alışkanlığı orada devre dışı bırakmanız gerekecek. Aksi halde derin yerlerde gerçekten hacker olan kişiler ve bu kişiler tarafından hazırlanmış tor ağını bile alt edebilen virüsler bulunabilir.
+
+5... Deep Web giriş nasıl yapılır?
+
+İnternetin arka bahçesi denilen deep webe girmek için özel tarayıcılar kullanmak gerekiyor.
+
+Günümüzde bunun en popüler yolu yukarıda da söylediğimiz üzere Tor Browser. Tarayıcıyı bilgisayarınıza kurduktan sonra, deep webe giriş yapabilirsiniz.Ancak sonraki aşamada standart internet kullanımındaki gibi Google'a girip arama yaparak bir şeylere ulaşabileceğinizi düşünmeyin.
+
+Tor, anlık olarak konumunuzu değiştirir, Aynı anda hem Brezilya'dan hem de İsviçre'den giriş yapmış gibi görünürsünüz ve anonimliğinizi koruyabilirsiniz. Bu, VPN servisleri gibi tercih edilen bir yapıdır.
+
+Tor ile bilinen popüler dizinlere girebilirsiniz, ancak bu şekildeki erişiminiz çok kısıtlı olacaktır. Tüm sitelerin, .onion uzantılı değişken adresleri olur. Bu sitelere ulaşmak için de, belirli liste sitelerine ulaşmanız gerekiyor. Standart domainler, standart url'ler yerine genellikle, .onion ve .clos uzantılı domainlerden oluşur. (xqz3udsrneuzhaeo.onion/.clos, 4eiruntyxxbgdfddfg.onion/.clos) gibi. (bu domainler temsilidir. gerçeklikle ilgisi yoktur.).onion.clos gibi adresler görebilirsiniz.
+
+Deep webin Wikipedia'si
+Yalnızca yönlendirme ile giriş yapabileceğiniz sitelere ulaşmak için, deep webin 'görünen yüzü'nün giriş kapısı Hidden Wiki'ye girebilirsiniz. Bu dünyayı merak edip de girmeye karar verenlerin uğradığı ilk nokta orasıdır. hiddenwiki.org adresinde, derinlere ilişkin bilgiler yer alır. Ancak orası da dahil olmak üzere, içeriğin çok büyük bir kısmı İngilizcedir.
+
+6... Deep web'e girmek bir suç mu?
+
+Hayır. Ne tarayıcı olarak Tor kullanmak, ne de deep webe girmek bir suç unsuru içermez. IP adresinizi, güçlü altyapısı ile anlık olarak değiştiren bir anonimite aracı olan Tor Browser ile standart internet erişimi de sağlayabilirsiniz, tercihinize kalmıştır.
+
+Deep webin legalliğine tekrar dönersek, evet girmek legaldir. Ancak içerik türünün % 95'inin yasa dışı olduğu bir yerde dikkatli olmak gerek.
+
+7... İnternetin derinliklerinde sizi ne bekliyor?
+
+Bir blogger ya da forum moderatörü olabilirsiniz. Gördüğünüz, duyduğunuz konuları tartışabilirsiniz. Sitenizi ziyaret edenler ise bu yazdıklarınızı okur ve bilgi edinir.
+
+Deep web'de ise durum biraz değil bayağı farklıdır.
+
+Deep web de sörf, search yaparken .CLOS- .LLL- .ONION uzantısına sahip, bilinen web sitelerinin yazılımlarına  benzer mantıkta çalışan sitelerle, bloglarla karşalabilirsiniz ancak orada göreceğiniz konu başlıkları bildiğinizin çok ötesinde.
+
+Satanist eylemler.
+
+Canlı video kanalları ile işkence, tecavüz, insan öldürme. (Gore Content*)
+
+Kendine iş arayan kiralık katiller. (yapabileceklerini yazarlar genelde)
+
+Terör grupları, bu gruplara giriş kanalları.
+
+U.S.A vatandaşlığı (Citizen Civilian)
+
+Türkiye, Avrupa ve Amerika tabanlı kullanılabilir kredi kartları.
+
+DMT içeren en etkili uyuşturucunun evde nasıl yapılabileceği.
+
+Etkili menzillere sahip bomba yapımını anlatan e-booklar.
+
+İllegal (yasadışı) cep telefonu, bilgisayar, tv, ev eşyası alışverişleri ve satın alınan ürünlerin teslim alınmasını anlatan konular.
+
+Seks kölesi yapmak için kadın satın almak isteyen sapıklar.
+
+Radyo frekanslarına sızma, yönetme ve yönlendirme eylemleri.
+
+Doxbin yani bir çok diplomat, celebrity (tanınınmış kişi) bilgileri.
+
+UFO'lar hakkında derinlemesine bilgiler. (51. bölge de dahil)
+
+Deep Web işkenceleri (hacking saldırıları)
+
+Bunlardan bazıları ancak bu kanallara erişimin sonunda yukarıda da söylediğimiz üzere çok iyi bir ingilizce dil bilgisine sahip olmanız gerekiyor ki gerçekliği insanları zaten şüpheye düşürmeye yeter.
+
+İngilizce yazım hatası, aksan bozukluğu onların gözünde sizi amatörden öteye götürmeyecektir.
+
+Çocuk pornosu merakını yazma gereği dahi duymadım konu başlıklarına.
+
+*Gore Content kısmını biraz daha açmak gerekirse, artık bu tip videoları, fotoğrafları görmek için deep webe gitmeye gerek yok. Ufak bir Google aramasıyla o bahsedilen video türlerine ulaşmak mümkün.
+
+Ve bunlar gibi görseller bulunmaktadır. Zaten günlük hayatımızda LiveLeak, GoreGrish gibi sitelerde bu tip öğeleri görebilmek mümkün.
+
+Bilinen adıyla deep web bizim adlandırdığımız adla dark net ortamı başka amaçlara hizmet etmekten başka bir iş yapmıyor.
+
+Dark net aslında özgürlüklerin temsili gibi düşünülebilir.
+
+8... Resmi para birimi: Bitcoin
+
+Darknet üzerinde dönen paranın 1 yıl içinde 2-3 milyar dolarlık bir rakama ulaştığı konuşulur.
+
+Yukarıdaki maddede yazan konu başlıklarını incelemek ya da sonuçlandırmak için bir ücret ödemeniz gerekiyor. Bu ödemeyi yapmayı kabul etseniz bile banka havalesi, eft ya da adınıza kayıtlı bir kredi kartı orada geçersiz olacaktır.
+
+Silkroad terimine giriş maddesinde değinmiştik. Dark Market olarak düşünebilirsiniz. Bu pazardan yapacağınız her alışverişin karşılığında Bitcoin paralarına sahip olmanız gerekecek. Bitcoin elde etmenin çok fazla yolu var ancak biz bunlardan bahsetmiyoruz.
+
+1 BTC'in dolar ya da TL karşılığı tıpkı borsalarda olduğu gibi tekliflere bağlıdır.
+
+Bu para türünü ister harcamalarınızda kullanabilir isterseniz bitcoin bounty hunter'lara satabilirsiniz.
+
+Bu para birimine sahip olmanız için evvela sıkı harcamalar yapmanız gerekiyor. Özel bilgisayarlar, yazılımlar almanız gerekiyor ki, günümüz şartları bunu kabul edilebilir olmanın dışına çıkarıyor. Bu gereksinimleri karşılasanız bile 1 Bitcoin üretmek neredeyse yıllarınızı alır.
+
+Dark net sadece ticari amaçla kullanılan bir yerden farklı bir yer değil. Silkroad denilen ve FBI tarafından kapatılan e-ticaret sitesinin Amazon, eBay gibi sitelerden bir farkı yoktu.
+
+Silkroad kapatılana kadar tüm işleyiş bu site üzerinden yürütülüyordu ve sitenin üst düzey yöneticileri arasında FBI ajanları da bulunuyordu.
+
+Bitcoin tarihine biraz inmemiz gerekirse; 2014'te dijital dünyada en çok ses getiren olaylardan birisi 'Bitcoin' olmuştu. Mazisi daha da eskilere dayanan dijital para birimi Bitcoin, bir anda değerini 1000 dolardan yukarıya taşıyınca, dünyanın dikkatini çekmişti. BTC'nin popülerliği ile birlikte, yatırım amaçlı alım satımı da başlamış olsa da ortaya çıkış süreci ve kulanım alanı yine deep webe dayanır.
+
+9... Web'in katmanları teorisi
+
+İnternet, bir bilgi depolama sistemi değildir. Belirli terminaller arası iletişim, veri aktarımıdır. Deep web denen dünya da, esasında insanların kendi sunucularını kullananarak, içeriklerine herkes ulaşamasın diye geliştirdikleri kapalı ve özel bir ağ. Erişilebilirliğe göre, deep web ve şu anda içinde bulunduğumuz standart dünyanın yer aldığı katmanlar şu şekildedir;
+
+Seviye 1 (Surface web)
+Özel bir tarayıcı kullanmadan erişilebilen, yüzeydeki web. Sosyal ağlar, haber siteleri ve şu ana kadar Google'ı kullanarak giriş yapmış olduğunuz tüm siteler.
+
+Seviye 2 (Bergie web)
+Arama motorları ile erişemeyeceğiniz web içerikleridir. FTP serverlar, indekslenmeyen yetişkin (+18) içerikler bu seviyede yer alır. Arama motorları ile bu içeriklere ulaşmanız neredeyse imkansızdır, çünkü ya arama engeli almışlardır ya da sırada en sona atılmışlardır.
+
+bundan sonraki seviyeler için proxy kullanmanız gerekmektedir
+
+Seviye 3 (Deep web)
+Proxy seviyesi
+
+Seviye 3 iki gruba ayrılır. İlk grupta yer alan proxy ile erişilebilen siteler, .onion uzantısına sahip olmayan ancak arama motorları tarafından engellenmiş, illegal içeriğe sahip her türlü sitenin bulunduğu kapsamdadır. Yasadışı araştırma sonuçları, hacker gruplarına ait içerikler, suikast videoları, rahatsız edici adult içerikler, VIP dedikodular, PC güvenliği ile ilgili konular bu seviyede yer alır.
+
+Tor seviyesi
+
+Deep web dünyasının gerçek sınırları burada başlar. Siteler kişisel sunuculardadır ve .onion uzantılarına sahiptir. Erişiminizi arama motorları ile değil, yalnızca dizinler üzerinden yönlendirme ile sağlayabileceğiniz deep web sitelerinin içerikleri, 'ağırlıklı olarak şehir efsanelerine dayanıyor olsa da' şöyledir:
+
+Hacklenen sunucuların verileri, data tüccarları, gizli devlet belgeleri, wikileaks belgeleri, casuslar tarafından satılan devlet sırları, terör örgütlerine ilişkin belgeler, bomba ve silah eğitimleri, federal bilgiler, istihbarat bilgileri, illegal bilimsel araştırmalar, bilim adamları, shell network, assembly programcıları, gerçek hackerlar, microsoft gizli ağ bilgileri, güvenlik ve data analistleri vb.
+
+Bu siteler kişisel sunucularda ve genellikle html kodlama ile hazırlanmış sitelerde yer alır. Site sahipleri sunucularını korumak için her şeyi yapabilirler.
+
+Seviye 4 (Charter web)
+Seviye 4 de iki grupta incelenir, Tor Browser kullanarak giriş yapabileceğiniz ilk düzeyde, hiddenwiki ya da diğer standart dizin siteleri üzerinden kolaylıkla ulaşamayacağınız adresler yer alır. Bu sitelerin içeriklerine yönelik iddialar şu şekildedir; (iddialar demek gerekiyor, çünkü deep web şehir efsaneleri ile de dolu bir dünya, aşağıda yazanların önemli kısmının kanıtı yoktur)
+
+Gizli şirket ve piyasa bilgileri, önceden belirlenmiş milyonluk bahis sonuçları, milyar dolarlık satışlar, dünyaca ünlü silah kaçakçıları, tank – füze- savunma sistemi satışları, yasaklanmış filmler – videolar – kitaplar – müzikler, üst düzey görevlerde bulunan devlet casusları, önemli ses kayıtları, paralı askerler, paralı ordular, paralı özel timler, kara kutular, aşırı illegal ve yasaklanmış adult içerikler, devlet görevlilerinin seks kasetleri, detaylı gizli wiki ansiklopedileri, insan ticareti, uyuşturucu ticareti, yasaklanan kimyasalların ve ilaçların ticareti, kan bankalarından kaçırılan kanların ticareti, çocuk pornoları, yamyamların – vampirlerin öldürmek için insan arayışları, illegal deneyler için insan denek aranması...
+
+Buraya kadar bahsettiğimiz kısma her internet kullanıcısı, Tor Browser ile girebilir, ancak bundan sonrasında...
+
+10... Erişim sağlamak için bir web tarayıcısına değil, özel cihazlara ihtiyaç duyulan 'Kapalı Sistem'
+
+Her internet kullanıcısının Tor ile erişiminin olduğu kısmı geride bıraktık. Charter web olarak adlandırılan özel erişim seviyesine, yalnızca belirli router cihazlar ile girebilirsiniz.
+
+Dünyada çok az kimsenin erişiminin olduğu 'closed shell system' olarak adlandırılan bu ulaşım yolu, belirli cihazlar olmadan yapılamaz. Bu cihazlara ulaşmak da kolay değildir. Özel işletim sistemine sahip bu cihazlara, kendine has mimariye sahip CPU monte edilir, onun ardından erişim frekansına girebilirsiniz. Bahsettiğimiz özel cihazlara sahip değilseniz, bu kısma ve daha derinlere erişiminiz yoktur.
+
+Üzülmeyin, benim de yok.
+
+Closed shell system
+Sitelerin uzantısı .clos olarak bilinir. Yukarıdaki ekran görüntüsünde, şifrelenmiş bir .clos sitesi görüyorsunuz. Uygun frekansa girebilecek bir router sahibi olmadığınız için, kriptolu hali normal kullanıcılara bu şekilde görünmektedir.
+
+Wikileaks belgeleri bu seviyeden çıkmıştır
+Dünyayı sarsan Wikileaks belgelerinin kapalı sistemde derlendiği ve üst katmanlara -aramıza- ulaştırıldığı söylenmektedir. Kurucu Julian Assange, dark net için önemli bir figürdür. Gizliliğin seviyesini bu olayla da anlayabilirsiniz.
+
+Kapalı sistemde neler var?
+Yapay zekalı ölüm makineleri, yapay zeka işlemcileri, GGGEQP işlemcileri, Tesla’nın planları, kristarilize güç kontrolörleri, hava durumunu değiştirebilen cihazlar, gizli HAARP projeleri, Atlantis’in yeri ve hakkındaki gizli araştırmalar hatta Atlantis’in bulunduğu yerin detaylı konumları, özel üretim motorların planları, Tanrı’nın olduğunu kabul etmeyenler ve ispatları, masonlar, illuminati, gizli algoritmalar ve hesaplamalar, global terör ağı, global cinayet ağı, global uyuşturucu ağı, global insan ticareti ağı, süper bilgisayarlar ve yapay zekalar bu düzeyde yer alan içeriklerin bu düzeyde yer aldığı iddia edilir.
+
+11... Meraklı gözlerin en merak ettiği bölüm. Henüz ulaşılamayan 'Mariana Çukuru' ve daha da derinleri.
+
+Burası tamamen şehir efsanesi gibi duruyor. Varlığı ya da yokluğu asla kanıtlanamamıştır. Son kullanıcı tarafında asla da kanıtlanamayacak gibi görünüyor.
+
+Dünyanın en derin noktası olan Mariana Çukuru'ndan adını almış bu düzey için birçok iddia vardır. Henüz ulaşılamamasının sebebi, günümüz bilgisayar teknolojisinin bunun için yetersiz olmasından gelmektedir. Kuantum ile çalışan bilgisayarlar ile Marianas web'e girilebileceği söylenir.
+
+Bu düzey için atasözleri, beklenti içine sokan sözler de söylenmiştir, 'eğer bir gün ulaşılabilirse, internetteki savaş bitecektir' gibi. Hangi savaş? Ne savaşı? demeden edemiyor insan.
+
+Seviye 6
+Deep web dünyasında bilinen en tehlikeli seviye olduğu söylenir.
+
+Seviye 7 (The Fog/Virus Soup)
+Efsaneye göre, savaş bölgesi olarak tabir edilen bir bölge, Marianas ve seviye 6 gibi, hakkında hiçbir şey bilinmeyen, ancak teorilerde yaşayan bir düzeydir. Savaş bölgesi olarak adlandırılmasının sebebi, herkesin 'seviye 8'e başka kimsenin çıkmamasını istediği için savaşacak olmasıdır.
+
+Seviye 8 (The Primarch System)
+Bu düzey için yapılan en embesilce tanım ise, internetin son noktası olduğudur. Günümüzde herhangi bir kişinin ya da devlet organizasyonunun bilmediği bir 'Primarch sistem' (God of System - İnternetin tanrısı) tarafından kontrol edildiği söylenmektedir.
+
+Seviyenin tepkisiz olduğu, ve internet dünyasına değiştirilemeyen komutlar gönderdiği ifade edilir. Primarch sistem hakkında yerli kaynaklar arasında bilgi bulunmamakla birlikte, standart seviye 8 tanımları dışında yabancı kaynaklarda da herhangi bir bilgi bulunmamaktadır.
+
+12... Kiralık katiller, pornografik içerikler, uyuşturucu, yasaklı belgeler, uzaylı fotoğrafları...
+
+% 95'inden fazlası illegal, yine o orana yakın bir kısmının da pornografik (ancak herhangi bir VPN ile girilebilecek, herkes tarafından bilinen +18 sitelerde yer alamayacak iğrenç kategorilerde) içerikten oluştuğu bu dünya, her ne kadar 'illüminati ve gizli oluşumlar, Nazi belgeleri, şikeli maçlar, planlar, olaylar olaylar' gibi anlata anlata bitirilemese de...
+
+Standart internet kullanıcıları, özellikle de İngilizce bilmeyen, orada hangi dizinler ile hangi portallara giriş yapacağının farkında olmayan, kısacası ne aradığını ve ne amaçla orada olduğundan habersiz kişiler için deep web nedir? Muhtemelen yukarıdaki gibi.
+
+Kaynaklar
+http://www.burakavci.com.tr/2013/12/closed-shell-system-network.html (shell system network)
+
+http://webrazzi.com/2015/02/05/derin-web-ipek-yolu-kurucusu-ross-ulbricht/ (silk road kurucusu ve yargılanması)
+
+http://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29 (silk road ve detayları)
+
+https://eksisozluk.com/deep-web--1695760

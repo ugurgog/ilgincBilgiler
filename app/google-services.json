@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689613119642",
+    "firebase_url": "https://ilginc-bilgiler-c1023.firebaseio.com",
+    "project_id": "ilginc-bilgiler-c1023",
+    "storage_bucket": "ilginc-bilgiler-c1023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689613119642:android:3ddf9b8632f0678d",
+        "android_client_info": {
+          "package_name": "uren.com.ilgincbilgiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689613119642-tepjdhn4l55l74hep5d20bkasdp2ft3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uren.com.ilgincbilgiler",
+            "certificate_hash": "835135492279180c8c9d6517641665756f89cf21"
+          }
+        },
+        {
+          "client_id": "689613119642-3tssrbiif9ck97td0v2ls2pdvtlqg3ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyEhqjvRspaOnQjPanUmQkFgARuL-7dA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689613119642-3tssrbiif9ck97td0v2ls2pdvtlqg3ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
