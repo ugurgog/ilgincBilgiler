@@ -1,24 +1,39 @@
 package uren.com.ilgincbilgiler.Fragments;
 
 
+import android.Manifest;
 import android.annotation.SuppressLint;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.graphics.Bitmap;
 import android.graphics.drawable.GradientDrawable;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+import android.support.v4.app.ActivityCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AnimationUtils;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.ScrollView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 
+import java.io.ByteArrayOutputStream;
 import java.util.Random;
 
 import butterknife.BindView;
@@ -27,6 +42,7 @@ import uren.com.ilgincbilgiler.GeneralUtils.AdMobUtils;
 import uren.com.ilgincbilgiler.GeneralUtils.ShapeUtil;
 import uren.com.ilgincbilgiler.MainFragments.BaseFragment;
 import uren.com.ilgincbilgiler.R;
+import uren.com.ilgincbilgiler.Utils.BitmapConversion;
 import uren.com.ilgincbilgiler.Utils.ContentItemSet;
 
 @SuppressLint("ValidFragment")
@@ -46,15 +62,17 @@ public class ItemContentFragment extends BaseFragment implements View.OnClickLis
     ImageView imgvBack;
     @BindView(R.id.imgvForward)
     ImageView imgvForward;
-    @BindView(R.id.randomButton)
-    Button randomButton;
+    @BindView(R.id.shareBtn)
+    Button shareBtn;
+    @BindView(R.id.nestedSv)
+    ScrollView nestedSv;
 
     private String type;
     private int itemIndex = 0;
 
     private String[] ITEM_INFO = new String[]{};
     ContentItemSet contentItemSet;
-    private Random rand = new Random();
+    Bitmap bitmap = null;
 
     private static final int INCREASE = 0;
     private static final int DECREASE = 1;
@@ -93,7 +111,7 @@ public class ItemContentFragment extends BaseFragment implements View.OnClickLis
         AdMobUtils.loadInterstitialAd(getContext());
         imgvBack.setOnClickListener(this);
         imgvForward.setOnClickListener(this);
-        randomButton.setOnClickListener(this);
+        shareBtn.setOnClickListener(this);
         contentItemSet = new ContentItemSet(type);
     }
 
@@ -111,8 +129,9 @@ public class ItemContentFragment extends BaseFragment implements View.OnClickLis
                 getResources().getColor(R.color.White, null), GradientDrawable.OVAL, 50, 1));
         imgvForward.setBackground(ShapeUtil.getShape(getResources().getColor(R.color.transparentBlack, null),
                 getResources().getColor(R.color.White, null), GradientDrawable.OVAL, 50, 1));
-        randomButton.setBackground(ShapeUtil.getShape(getResources().getColor(R.color.transparentBlack, null),
-                getResources().getColor(R.color.White, null), GradientDrawable.RECTANGLE, 20, 1));
+        shareBtn.setBackground(ShapeUtil.getShape(getResources().getColor(R.color.LimeGreen, null),
+                getResources().getColor(R.color.White, null), GradientDrawable.RECTANGLE, 25, 1));
+
     }
 
     private void setInfoMessage(int type) {
@@ -145,11 +164,23 @@ public class ItemContentFragment extends BaseFragment implements View.OnClickLis
             setInfoMessage(INCREASE);
         }
 
-        if (v == randomButton) {
-            randomButton.startAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.image_click));
-            itemIndex = rand.nextInt(ITEM_INFO.length);
-            textView.setText(ITEM_INFO[itemIndex]);
+        if (v == shareBtn) {
+            imgvForward.startAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.image_click));
+            shareText();
         }
+    }
 
+    public void shareText(){
+        Intent whatsappIntent = new Intent(Intent.ACTION_SEND);
+        whatsappIntent.setType("text/plain");
+        whatsappIntent.setPackage("com.whatsapp");
+        whatsappIntent.putExtra(Intent.EXTRA_TEXT, textView.getText().toString());
+        try {
+            getContext().startActivity(whatsappIntent);
+        } catch (android.content.ActivityNotFoundException ex) {
+            Toast.makeText(getContext(), "Whatsapp yüklü değil!", Toast.LENGTH_SHORT);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
 }

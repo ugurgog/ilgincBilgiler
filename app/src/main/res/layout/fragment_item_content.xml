@@ -57,13 +57,13 @@
                         android:layout_height="match_parent"
                         android:layout_alignParentStart="true"
                         android:layout_centerVertical="true"
+                        android:layout_gravity="center"
                         android:gravity="center"
                         android:padding="15dp"
                         android:text="sdsdssdsdsd"
                         android:textColor="@color/White"
                         android:textSize="20sp"
-                        android:textStyle="bold"
-                        android:layout_gravity="center"/>
+                        android:textStyle="bold" />
 
                 </ScrollView>
 
@@ -74,34 +74,27 @@
                     android:layout_margin="5dp"
                     android:layout_weight="2">
 
-
-
-                    <RelativeLayout
+                    <Button
+                        android:id="@+id/shareBtn"
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_gravity="center"
-                        android:layout_weight="3">
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginEnd="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginTop="5dp"
+                        android:padding="5dp"
+                        android:text="Paylaş(Whatsapp)"
+                        android:gravity="center"
+                        android:textAllCaps="false"
+                        android:textColor="@color/White"
+                        android:textSize="17sp"
+                        android:textStyle="bold"
+                        android:layout_weight="2"/>
 
-                        <Button
-                            android:id="@+id/randomButton"
-                            android:layout_width="163dp"
-                            android:layout_height="match_parent"
-                            android:layout_alignParentStart="true"
-                            android:layout_centerVertical="true"
-                            android:layout_marginBottom="5dp"
-                            android:layout_marginEnd="5dp"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="5dp"
-                            android:layout_marginStart="5dp"
-                            android:layout_marginTop="5dp"
-                            android:padding="2dp"
-                            android:text="Rastgele"
-                            android:textAllCaps="false"
-                            android:textColor="@color/White"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
-
-                    </RelativeLayout>
 
                     <ImageView
                         android:layout_width="0dp"
